@@ -36,17 +36,8 @@ The game follows the standard rules:
 - **CSS3**: For styling, layout (Flexbox), and interactive hover effects.
 - **JavaScript (ES6)**: For game logic, random move generation, and dynamic UI updates.
 
----
 
-## 📝 Why a README is Important?
 
-A `README.md` is the first thing a developer or user sees when they visit a project. It serves as:
-- **Project Documentation**: Explains what the project is and what it does.
-- **Onboarding Guide**: Helps other developers understand how to run and contribute to the code.
-- **Professionalism**: Shows that the author cares about clarity and communication.
-- **Clarity**: Briefly summarizes the domain and use of the project so anyone can understand it in seconds.
-
----
 
 ## 📂 Project Structure
 
